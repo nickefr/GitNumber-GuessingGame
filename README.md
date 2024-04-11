@@ -83,3 +83,6 @@ Copy code
 | `git add file1`                              | 
 | `git commit -m "feat: add unique reference"` | 
 | `vim file2`                                  |
+![part2 1](https://github.com/nickefr/GitNumber-GuessingGame/assets/73330890/3a4fdfcd-78f6-4406-ab4f-f2db81429d8f)
+![part2 2](https://github.com/nickefr/GitNumber-GuessingGame/assets/73330890/b1e5edd3-ffd4-4182-9ec6-21a639f56b9b)
+
